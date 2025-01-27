@@ -4,3 +4,18 @@ div{
     margin-bottom: 10px;
 
 }
+/* #aye{ */
+    /* background-image: url("habijabi.jpg");
+    color: yellow; 
+     background-size: cover; */
+/* } */
+/* #chobi > img{ */
+    
+    /* background-size: cover; */
+    /* height: 100px; */
+    /* width: 200p */
+/* } */
+
+@media (min-width:100px && max-width: 576px) { 
+    background-size: 500rem 50rem;
+ }
